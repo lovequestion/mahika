@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Lobster&display=swap');
+
+
+.font{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.font1{
+    font-size: 45px;
+    font-family: fantasy;
+}
+
+h1 {
+    text-align: center;
+    font-size: 8rem;
+    font-family: 'Lobster', cursive;
+}
+
+Button {
+    width: 200px;
+    height: 100px;
+}
+
+.navbar-brand {
+    font-size: 8rem !important;
+    font-family: 'Lobster', cursive !important;
+}
