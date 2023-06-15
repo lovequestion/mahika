@@ -3,27 +3,27 @@
 
 
 .font{
-    font-size: 15px;
+    font-size: 40px;
     font-family: cursive;
 }
 
 .font1{
-    font-size: 20px;
+    font-size: 45px;
     font-family: fantasy;
 }
 
 h1 {
     text-align: center;
-    font-size: 2rem;
+    font-size: 8rem;
     font-family: 'Lobster', cursive;
 }
 
 Button {
-    width: 120px;
-    height: 40px;
+    width: 200px;
+    height: 100px;
 }
 
 .navbar-brand {
-    font-size: 2rem !important;
+    font-size: 8rem !important;
     font-family: 'Lobster', cursive !important;
 }
