@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mahika/static/css/main.afaa1321.css",
+    "main.css": "/mahika/static/css/main.7a5a0f3a.css",
     "main.js": "/mahika/static/js/main.8ffe55d4.js",
     "static/js/787.3a5f3077.chunk.js": "/mahika/static/js/787.3a5f3077.chunk.js",
     "static/media/card2.png": "/mahika/static/media/card2.e3ae6e5f85a30bdef8ee.png",
@@ -8,12 +8,12 @@
     "static/media/card1.jpg": "/mahika/static/media/card1.b513fa614ea5c41ab02b.jpg",
     "static/media/card3.png": "/mahika/static/media/card3.bd35378dfcf01c06ebf7.png",
     "index.html": "/mahika/index.html",
-    "main.afaa1321.css.map": "/mahika/static/css/main.afaa1321.css.map",
+    "main.7a5a0f3a.css.map": "/mahika/static/css/main.7a5a0f3a.css.map",
     "main.8ffe55d4.js.map": "/mahika/static/js/main.8ffe55d4.js.map",
     "787.3a5f3077.chunk.js.map": "/mahika/static/js/787.3a5f3077.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afaa1321.css",
+    "static/css/main.7a5a0f3a.css",
     "static/js/main.8ffe55d4.js"
   ]
 }
